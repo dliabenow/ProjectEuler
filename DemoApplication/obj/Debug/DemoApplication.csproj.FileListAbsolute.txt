@@ -1,0 +1,8 @@
+C:\Users\dliabenow\Documents\GitHub\ProjectEuler\DemoApplication\bin\Debug\DemoApplication.exe.config
+C:\Users\dliabenow\Documents\GitHub\ProjectEuler\DemoApplication\bin\Debug\DemoApplication.exe
+C:\Users\dliabenow\Documents\GitHub\ProjectEuler\DemoApplication\bin\Debug\DemoApplication.pdb
+C:\Users\dliabenow\Documents\GitHub\ProjectEuler\DemoApplication\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\dliabenow\Documents\GitHub\ProjectEuler\DemoApplication\obj\Debug\DemoApplication.exe
+C:\Users\dliabenow\Documents\GitHub\ProjectEuler\DemoApplication\obj\Debug\DemoApplication.pdb
+C:\Users\dliabenow\Documents\GitHub\ProjectEuler\DemoApplication\bin\Debug\BusinessLogic.dll
+C:\Users\dliabenow\Documents\GitHub\ProjectEuler\DemoApplication\bin\Debug\BusinessLogic.pdb
