@@ -16,14 +16,19 @@ namespace DemoApplication
 
         static void Main(string[] args)
         {
-            // stop at anything greated ther int.MaxValue as this would cause OverflowException
-            for (uint i = 1; i < int.MaxValue; i++)
+            Console.WriteLine("Starting search...");
+
+            for (uint i = 1; i < PermutedMultiples.MaxThreshold; i++)
             {
                 if (PermutedMultiples.IsMatching(i))
                 {
+                    Console.WriteLine(String.Format("The smallest positive integer is: {0}", i));
                     break;
                 }
             }
+
+            Console.WriteLine("Finished search.");
+            Console.ReadLine();
         }
 
 
